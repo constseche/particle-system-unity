@@ -1,3 +1,5 @@
+http://web.stanford.edu/class/cs248/assignment/assignment3.pdf
+
 # PART_A
 
 Particles that are constantly created from a specific position with random initial
